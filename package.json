@@ -1,0 +1,28 @@
+{
+  "name": "gulp-trailing-comma",
+  "version": "0.0.1",
+  "description": "a gulp plugin to remove extra trailing comma",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/friskfly/gulp-trailing-comma"
+  },
+  "keywords": [
+    "gulp",
+    "trailing",
+    "comma",
+    "trailing-comma"
+  ],
+  "author": "friskfly",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/friskfly/gulp-trailing-comma/issues"
+  },
+  "homepage": "https://github.com/friskfly/gulp-trailing-comma",
+  "dependencies": {
+    "esprima": "^2.3.0"
+  }
+}
