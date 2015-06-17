@@ -1,6 +1,6 @@
 # gulp-trailing-comma
 
-IE 6 and IE 7 complains about trailing commas by simply refusing to execute code. 
+IE 6 and IE 7 complains about trailing commas by simply refusing to execute code.
 
 ## before 
 ```js
@@ -16,6 +16,6 @@ var object = {
 var object = {
   a : 'a',
   b : 'b',
-  c : 'c',
+  c : 'c'
 }
 ```
