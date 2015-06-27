@@ -1,3 +1,4 @@
+[![NPM version][npm-image]][npm-url]
 [![Build status][travis-img]][travis-url]
 [![Coverage Status](https://coveralls.io/repos/friskfly/gulp-trailing-comma/badge.svg)](https://coveralls.io/r/friskfly/gulp-trailing-comma)
 [![License][license-img]][license-url]
@@ -39,7 +40,8 @@ var object = {
 
 ### License
 MIT
-
+[npm-image]: https://img.shields.io/npm/v/gulp-trailing-comma.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/gulp-trailing-comma
 [travis-img]: https://travis-ci.org/friskfly/gulp-trailing-comma.svg
 [travis-url]: https://travis-ci.org/friskfly/gulp-trailing-comma
 [license-img]: http://img.shields.io/badge/license-MIT-green.svg?style=flat-square

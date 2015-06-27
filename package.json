@@ -1,6 +1,6 @@
 {
   "name": "gulp-trailing-comma",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "a gulp plugin to remove extra trailing comma",
   "main": "index.js",
   "scripts": {
