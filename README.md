@@ -3,7 +3,7 @@ gulp-trailing-comma is a Gulp extension to remove extra trailing comma in js sou
 
 Since IE 6 and IE 7 complains about trailing commas by simply refusing to execute code.
 
-It uses `esprima` for parseing js source file.
+It uses `esprima` for parsing js source file.
 
 ##usage
 
