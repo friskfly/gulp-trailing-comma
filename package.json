@@ -4,7 +4,8 @@
   "description": "a gulp plugin to remove extra trailing comma",
   "main": "index.js",
   "scripts": {
-    "test": "mocha --reporter spec"
+    "test": "mocha --reporter spec",
+    "test-cov": "istanbul cover node_modules/.bin/_mocha"
   },
   "repository": {
     "type": "git",
@@ -28,6 +29,8 @@
     "through2": "^2.0.0"
   },
   "devDependencies": {
+    "event-stream": "^3.3.1",
+    "istanbul": "^0.3.16",
     "vinyl": "^0.5.0"
   }
 }

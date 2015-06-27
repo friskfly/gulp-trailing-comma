@@ -36,7 +36,7 @@ function removeTrailingComma(source) {
       })
     }
   })
-  if (collectedDatas.length === 0) return;
+  if (collectedDatas.length === 0) return source;
   // from the backward forward we can ignore the offset problem
   for (var i = collectedDatas.length - 1; i >= 0; i--) { 
     var range = collectedDatas[i].range
